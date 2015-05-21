@@ -32,6 +32,10 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 Follow the donate link ;)
 
+== Upgrade Notice ==
+
+Nothing here
+
 == Screenshots ==
 
 1. On subscription page
