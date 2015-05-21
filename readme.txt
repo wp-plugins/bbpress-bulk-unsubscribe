@@ -1,5 +1,5 @@
 === bbPress Bulk Unsubscribe ===
-Contributors: tareq1988, weDevs
+Contributors: tareq1988, wedevs
 Donate link: http://tareq.wedevs.com/donate/
 Tags: bbpress, forum, bulk, unsubscribe, topic
 Requires at least: 3.8
